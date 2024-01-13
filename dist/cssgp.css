@@ -90,3 +90,10 @@
     }
 
 }
+
+.test {
+    background-color: var(--buttonColorSecondary);
+    border: var(--borderColorMain) solid 1px;
+    box-shadow: var(--shadowMainColor) 0 0 0 0;
+    transition: 0.05s ease-in-out;
+}
