@@ -5,6 +5,6 @@ This project is just my main simple css file distribution to unify my app or any
 
 ## Installation and Usage
 ```bash
-npm install @grz3chu/cssgp
+npm install cssgp
 ```
 Main file is in dist folder. Just import cssgp.css to your project.
