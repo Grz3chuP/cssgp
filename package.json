@@ -1,0 +1,26 @@
+{
+  "name": "cssgp",
+  "version": "1.0.0",
+  "description": "my custom css",
+  "main": "dis/cssgp.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "major": "npm version major",
+    "minor": "npm version minor",
+    "patch": "npm version patch",
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grz3chuP/cssgp.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "gp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grz3chuP/cssgp/issues"
+  },
+  "homepage": "https://github.com/Grz3chuP/cssgp#readme"
+}
